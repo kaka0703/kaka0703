@@ -1,3 +1,9 @@
+Hi there.
+This is Albert Lin, cretive full stack developer.
+As an experienced full stack developer, I have 5+ years of experience with Full stack developement.
+My front-end skills are React, Vue, Next, Nuxt, HTML/css and back-end skills are NodeJs, Django/Flask.
+Also I am familiar with Cloud services and API.
+
 <p align='center'>
     <a href="https://web.skype.com?id=live:.cid.4ed3f5264c6ead01">
       <img src="https://img.shields.io/badge/skype-%230077B5.svg?&style=for-the-badge&logo=skype&logoColor=white" />
